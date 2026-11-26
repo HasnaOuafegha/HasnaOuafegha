@@ -10,7 +10,7 @@
 * **Data Engineering & Big Data:** PySpark, Databricks, Delta Lake, ETL Pipelines, Medallion Architecture
 * **Databases & Querying:** SQL (CTEs, Window Functions), SQLite
 * **Data Science & Machine Learning:** Python (Pandas, NumPy, Scikit-Learn), SMOTE, NLP, TensorFlow
-* **Tools & BI:** Git, GitHub, Power BI, FastAPI, Docker, Linux
+* **Tools & BI:** Git, GitHub, Power BI, FastAPI, Docker
 
 ---
 
